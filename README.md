@@ -22,7 +22,7 @@ system matures and design choices stabilize
 
 **Review the Architecture:** Click the thumbnail below to view the detailed system design and research documentation.
 
-[![Architecture Thumbnail](readme/images/thumbnail.png)](maveric_perception_documentation.pdf)  
+[![Architecture Thumbnail](readme/images/thumbnail.png)](https://doi.org/10.5281/zenodo.22018682)
 
 ## Core Modules
 
